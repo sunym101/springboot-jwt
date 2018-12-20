@@ -1,0 +1,1 @@
+java -jar ./target/springboot-jwt-1.0.1.jar
